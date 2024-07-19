@@ -40,7 +40,8 @@ function App() {
   {/* <UseContextComp /> */}
   {/* <UseReducerComp /> */}
   {/* <UseMemoComp /> */}
-  <UseCallbackComp />
+  {/* <UseCallbackComp /> */}
+  <></>
 
 
   </>);
